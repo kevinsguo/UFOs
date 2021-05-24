@@ -7,4 +7,4 @@
 ## Results
 - A search bar has been created on the left side of the website. It is where the user can easily entered the searches of their interest. The following screenshot shows the webpage without any filters entered. 
 
-![homepage](Resources/homepage.PNG)
+![homepage](Resources/homepage.JPG)
