@@ -8,3 +8,7 @@
 - A search bar has been created on the left side of the website. It is where the user can easily entered the searches of their interest. The following screenshot shows the webpage without any filters entered. 
 
 ![homepage](Resources/homepage.JPG)
+
+- The user can enter any filtering criteria in the columns on the left hand side of the website. For instance, the following screenshot shows the list of data after a specific date was entered in the filtering column. 
+
+![date_filter](Resources/date_filter.JPG)
